@@ -1,4 +1,3 @@
-import 'package:assignment_flutter/core/consts.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../viewmodel/chat_list_viewmodel.dart';

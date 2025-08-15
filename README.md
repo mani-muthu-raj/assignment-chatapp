@@ -1,16 +1,13 @@
-# assignment_flutter
+# My Chat App
 
-A new Flutter project.
+This is a Flutter chat app.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![App Screenshot](assets/screenshots/welcome.jpg)
+![App Screenshot](assets/screenshots/register.jpg)
+![App Screenshot](assets/screenshots/login.jpg)
+![App Screenshot](assets/screenshots/chat.jpg)
+![App Screenshot](assets/screenshots/message.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
